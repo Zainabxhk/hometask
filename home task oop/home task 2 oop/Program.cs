@@ -10,7 +10,7 @@ namespace Q2
     {
         static void Main(string[] args)
         {
-            Employee_Management_System employee1 = new Employee_Management_System(1218, "Zainab", "Software Engineer", 1000000);
+            Employee_Management_System employee1 = new Employee_Management_System(1099, "ali", "Software Engineer", 800000);
             employee1.DisplayEmployeeDetails();
             employee1.IncreaseSalary(3000000);
         }

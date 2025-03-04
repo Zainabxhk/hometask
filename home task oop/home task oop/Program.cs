@@ -11,10 +11,10 @@ namespace Home3
         static void Main(string[] args)
         {
             Book book1 = new Book();
-            book1.title = "janat k pate";
+            book1.title = "peere kamil";
             book1.Author = "namra ahmad";
-            book1.ISBN ="45676";
-            book1.Price = 5000;
+            book1.ISBN ="9676";
+            book1.Price = 500;
 
             book1.DisplayDatail();
             book1.ApplyDiscount(10);
